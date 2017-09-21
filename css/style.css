@@ -1,0 +1,19 @@
+#profile{
+  border-radius: 50%;
+  width: 100%;
+  height: auto
+}
+.navbar-default {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}
+.spacer{
+  height: 50px
+}
+.dates{
+  text-align: right;
+  color: #d1d1e0;
+}
+.titles{
+  color:#66ccff;
+}
